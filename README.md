@@ -48,20 +48,19 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
-![Screenshot 2025-04-25 135427](https://github.com/user-attachments/assets/e60973ad-b3b9-4559-b81e-01b61740d5fa)
+![image](https://github.com/user-attachments/assets/7c85ce94-4ab5-4eeb-abe7-19e4299c0e71)
 
-![Screenshot 2025-04-25 135435](https://github.com/user-attachments/assets/ebfbad18-9eca-44f9-ae92-c821e113c496)
+![image](https://github.com/user-attachments/assets/b4f59e54-4033-4a61-b0be-48db095fe3ee)
 
 ### 2. Policy, Value function and success rate for the Improved Policy
-![Screenshot 2025-04-25 135544](https://github.com/user-attachments/assets/fbee3982-9ce3-4fc5-a0a0-9281759320b2)
-
-![Screenshot 2025-04-25 135550](https://github.com/user-attachments/assets/ba2d3fd8-9cd4-44cf-a572-0637ab4338aa)
+![image](https://github.com/user-attachments/assets/6939e2b7-95f1-4d32-8ea5-6e9dd74dcd56)
+![image](https://github.com/user-attachments/assets/5022ffda-8fa7-4091-8790-de9aff5fd145)
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-![Screenshot 2025-04-25 135730](https://github.com/user-attachments/assets/618a1170-f529-4113-965e-61a0f8ea15f2)
+![image](https://github.com/user-attachments/assets/5f4f2385-6d0e-40cf-be0e-9aa990b52dae)
 
-![Screenshot 2025-04-25 135735](https://github.com/user-attachments/assets/ecb09843-a82d-4a99-8402-fbc6696c1edc)
+![image](https://github.com/user-attachments/assets/2896c7c7-83c5-4103-9c97-bca3e3b7a1b1)
 
 
 
